@@ -32,3 +32,9 @@ python3 manage.py runserver
 ```bash
 python3 -m flake8
 ```
+
+- Isort
+
+```bash
+python3 -m isort .
+```
