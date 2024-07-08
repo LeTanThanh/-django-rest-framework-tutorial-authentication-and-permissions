@@ -15,6 +15,12 @@ source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 ```
 
+- Create superuser
+
+```bash
+python3 manage.py createsuperuser
+```
+
 - Run server
 
 ```bash
