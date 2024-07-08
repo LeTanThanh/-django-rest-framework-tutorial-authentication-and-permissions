@@ -12,7 +12,7 @@ source .venv/bin/activate
 - Install packages
 
 ```bash
-pip3 install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 - Run server
@@ -25,4 +25,10 @@ python3 manage.py runserver
 
 ```bash
 127.0.0.1:8000
+```
+
+- Flake8
+
+```bash
+python3 -m flake8
 ```
