@@ -14,3 +14,15 @@ source .venv/bin/activate
 ```bash
 pip3 install -r requirements.txt
 ```
+
+- Run server
+
+```bash
+python3 manage.py runserver
+```
+
+- Open web
+
+```bash
+127.0.0.1:8000
+```
