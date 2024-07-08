@@ -2,5 +2,7 @@
 exclude=
   .git,
   __pycache__,
-  .venv
+  .venv,
+  snippets/migrations,
+  snippets/models/__init__.py
 max-line-length=120

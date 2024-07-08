@@ -37,4 +37,5 @@ python3 -m flake8
 
 ```bash
 python3 -m isort .
+python3 -m isort . --check --diff
 ```
